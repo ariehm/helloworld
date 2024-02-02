@@ -1,3 +1,3 @@
 
 main:
-	go build ./cmd/hw
+	go build -o dist/hw ./cmd/hw
