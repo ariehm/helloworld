@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Printf("Hello, world!\n")
+	fmt.Printf("What ho, world!\n")
 	fmt.Printf("build: %s\n", getVCSInfo())
 }
 
