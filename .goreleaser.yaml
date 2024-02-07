@@ -125,7 +125,7 @@ brews:
     # Your app's description.
     #
     # Templates: allowed
-    description: "Friendly software that offers a friendly greeting.  Friendlyly."
+    description: "Friendly software that offers a friendly greeting"
 
     # SPDX identifier of your app's license.
     license: "MIT"
